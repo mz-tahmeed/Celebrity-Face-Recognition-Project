@@ -152,7 +152,8 @@ def search_and_download(search_term:str,driver_path:str,target_path='./datasets'
             persist_image(target_folder,elem)
     except Exception as e:
         print(e)
-        
+
+
 import time
 import requests 
 import io
@@ -162,7 +163,7 @@ import os
 from selenium import webdriver
 
 
-query = ["Serena Williams"]
+query = ["Cristiano Ronaldo"]
 
 for q in query:
     search_and_download(q,"./chromedriver.exe")
