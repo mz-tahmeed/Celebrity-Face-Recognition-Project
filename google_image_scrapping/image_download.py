@@ -163,7 +163,7 @@ import os
 from selenium import webdriver
 
 
-query = ["Cristiano Ronaldo"]
+query = ["Luka Modric"]
 
 for q in query:
     search_and_download(q,"./chromedriver.exe")
