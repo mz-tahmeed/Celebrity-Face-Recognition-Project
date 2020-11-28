@@ -44,5 +44,7 @@ In this Data science and Machine learning project, we classify sports personalit
 ## Sources
 
 **Image Scrapper Code:** https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d
+
 **Image Scrapper Code:** https://medium.com/@wwwanandsuresh/web-scraping-images-from-google-9084545808a2
+
 **You can view on the details of this project here:** https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
